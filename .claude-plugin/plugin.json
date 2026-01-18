@@ -1,0 +1,18 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "Pipeline Playbook - Tactical acquisition and growth workflows",
+  "author": "Aegis Agent",
+  "skills": [
+    {"name": "prospect", "description": "Find high-intent leads from new-hire signals", "file": "skills/prospect.md"},
+    {"name": "spy", "description": "Monitor competitors for complaints", "file": "skills/spy.md"},
+    {"name": "validate", "description": "Rapidly validate an offer before building", "file": "skills/validate.md"},
+    {"name": "versus", "description": "Generate SEO comparison content", "file": "skills/versus.md"},
+    {"name": "growth", "description": "30-day parasitic Twitter growth plan", "file": "skills/growth.md"},
+    {"name": "clone", "description": "SaaS reverse engineering playbook", "file": "skills/clone.md"},
+    {"name": "outbound", "description": "Cold email campaign builder at scale", "file": "skills/outbound.md"},
+    {"name": "intent", "description": "Find hand-raisers with buying intent", "file": "skills/intent.md"}
+  ],
+  "homepage": "https://github.com/aegis-agent/pipeline-playbook-plugin",
+  "license": "MIT"
+}
